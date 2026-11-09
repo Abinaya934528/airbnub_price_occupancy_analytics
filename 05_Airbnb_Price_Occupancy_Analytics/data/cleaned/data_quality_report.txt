@@ -1,0 +1,46 @@
+=== Airbnb Data Quality Report ===
+Total records: 23759
+Total columns: 90
+
+=== Column Statistics ===
+Price Statistics:
+  Mean: $4410.70
+  Median: $3600.00
+  Min: $78.55
+  Max: $17390.00
+  Std: $3096.41
+
+Availability Statistics:
+  Mean: 300.8 days
+  Median: 350.0 days
+
+Review Score Statistics:
+  Mean: 4.65
+  Median: 4.78
+
+=== Missing Values Count ===
+  source: 15885 (66.9%)
+  description: 132 (0.6%)
+  neighborhood_overview: 23759 (100.0%)
+  host_since: 23759 (100.0%)
+  host_location: 8454 (35.6%)
+  host_about: 13834 (58.2%)
+  host_response_time: 23759 (100.0%)
+  host_response_rate: 23759 (100.0%)
+  host_acceptance_rate: 23759 (100.0%)
+  host_thumbnail_url: 23759 (100.0%)
+  host_neighbourhood: 23759 (100.0%)
+  host_total_listings_count: 23759 (100.0%)
+  host_verifications: 23759 (100.0%)
+  neighbourhood: 23759 (100.0%)
+  neighbourhood_group_cleansed: 23759 (100.0%)
+  bathrooms: 23759 (100.0%)
+  bathrooms_text: 95 (0.4%)
+  bedrooms: 16 (0.1%)
+  beds: 318 (1.3%)
+  calendar_updated: 23759 (100.0%)
+  has_availability: 9 (0.0%)
+  first_review: 7937 (33.4%)
+  last_review: 7937 (33.4%)
+  license: 7304 (30.7%)
+  instant_bookable: 23759 (100.0%)
